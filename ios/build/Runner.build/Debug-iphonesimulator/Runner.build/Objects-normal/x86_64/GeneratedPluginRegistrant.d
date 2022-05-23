@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/risakokato/Desktop/flutter_googlemap/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/risakokato/Desktop/flutter_googlemap/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/risakokato/Desktop/flutter_googlemap/ios/build/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/risakokato/Desktop/flutter_googlemap/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/risakokato/Desktop/flutter_googlemap/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/risakokato/Desktop/flutter_googlemap/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/risakokato/Desktop/flutter_googlemap/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/risakokato/Desktop/flutter_googlemap/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/risakokato/Desktop/flutter_googlemap/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/risakokato/Desktop/flutter_googlemap/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/risakokato/Desktop/flutter_googlemap/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/risakokato/Desktop/flutter_googlemap/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/risakokato/Desktop/flutter_googlemap/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/risakokato/Desktop/flutter_googlemap/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/risakokato/Desktop/flutter_googlemap/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/risakokato/Desktop/flutter_googlemap/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/risakokato/Desktop/flutter_googlemap/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/risakokato/Desktop/flutter_googlemap/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/risakokato/Desktop/flutter_googlemap/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h

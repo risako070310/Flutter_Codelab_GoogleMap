@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "b5c998e019757705b9224b5ac59214311954495f11bd706860f5f8e851296701"
+build_start_time: [1653280705, 11867046]
+build_end_time: [1653280706, 995432853]
+inputs:
+  "/Users/risakokato/Desktop/flutter_googlemap/ios/Runner/AppDelegate.swift": [1653279413, 10403156]
